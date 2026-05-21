@@ -112,17 +112,6 @@ Detection accuracy may vary depending on:
 
 ---
 
-## 🚀 Future Improvements
-
-- Deep learning eye-state classification
-- Head pose estimation
-- Mobile deployment
-- Night vision support
-- Multi-face detection
-- Cloud deployment
-
----
-
 ## 👩‍💻 Author
 
 **Manisha Gurugubelli**
